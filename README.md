@@ -1,3 +1,5 @@
+# Tests fail completely, but the source is still built
+
 ![Java Native Access - JNA](https://github.com/java-native-access/jna/raw/master/www/images/jnalogo.jpg "Java Native Access - JNA")
 
 [![Build Status](https://travis-ci.org/java-native-access/jna.svg?branch=master)](https://travis-ci.org/java-native-access/jna)
